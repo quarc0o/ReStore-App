@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B138B4B627C67FC50062A376 /* my_feature.swift in Sources */ = {isa = PBXBuildFile; fileRef = B138B4B527C67FC50062A376 /* my_feature.swift */; };
 		B1CCAF602749B50300075010 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1CCAF5F2749B50300075010 /* AppDelegate.swift */; };
 		B1CCAF622749B50300075010 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1CCAF612749B50300075010 /* SceneDelegate.swift */; };
 		B1CCAF642749B50300075010 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1CCAF632749B50300075010 /* ViewController.swift */; };
@@ -22,6 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B138B4B527C67FC50062A376 /* my_feature.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = my_feature.swift; sourceTree = "<group>"; };
 		B1CCAF5C2749B50300075010 /* ReStore App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ReStore App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B1CCAF5F2749B50300075010 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B1CCAF612749B50300075010 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 				B1CCAF7A274FBE1900075010 /* ItemsTableVC.swift */,
 				B1CCAF7C274FBE2700075010 /* ItemsCell.swift */,
 				B1CCAF80274FC18200075010 /* Items.swift */,
+				B138B4B527C67FC50062A376 /* my_feature.swift */,
 			);
 			path = "ReStore App";
 			sourceTree = "<group>";
@@ -163,6 +166,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B1CCAF7D274FBE2700075010 /* ItemsCell.swift in Sources */,
+				B138B4B627C67FC50062A376 /* my_feature.swift in Sources */,
 				B1CCAF7B274FBE1900075010 /* ItemsTableVC.swift in Sources */,
 				B1CCAF642749B50300075010 /* ViewController.swift in Sources */,
 				B1CCAF602749B50300075010 /* AppDelegate.swift in Sources */,
